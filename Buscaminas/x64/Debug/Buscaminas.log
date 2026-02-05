@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\capit\Desktop\Uni\FP2\Buscaminas\main.cpp(14,10): warning C4551: la llamada a la función no tiene lista de argumentos
+  Buscaminas.vcxproj -> C:\Users\capit\source\repos\Buscaminas\x64\Debug\Buscaminas.exe
